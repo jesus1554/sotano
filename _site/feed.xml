@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-MX"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://alembic.darn.es/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alembic.darn.es/" rel="alternate" type="text/html" hreflang="es-MX" /><updated>2021-01-04T13:33:50-06:00</updated><id>https://alembic.darn.es/feed.xml</id><title type="html">El Sótano</title><subtitle>Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately</subtitle><author><name>DavidDarnes</name></author><entry><title type="html">Aprende lo que sea YA, que se joda la escuela</title><link href="https://alembic.darn.es/blog/aprender" rel="alternate" type="text/html" title="Aprende lo que sea YA, que se joda la escuela" /><published>2021-01-04T00:00:00-06:00</published><updated>2021-01-04T00:00:00-06:00</updated><id>https://alembic.darn.es/blog/aprender</id><content type="html" xml:base="https://alembic.darn.es/blog/aprender">&lt;p&gt;Todos hablan de cómo te puede beneficiar aprender por internet, pero nadie te enseña cómo. Hoy vas a aprender de una vez por todas cómo puedes aprender todo lo que quieras de manera gratuita por internet. Lo que sea, en serio.&lt;/p&gt;
+
+&lt;p&gt;Esta guía paso a paso fue hecha 100% desde mi experiencia. Siéntete libre de expandirla tanto como estés cómodo. Aquí vamos.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-descúbrete&quot;&gt;1. Descúbrete&lt;/h2&gt;
+
+&lt;p&gt;Piensa bien quién eres, en serio. En una hoja descríbete tan detalladamente como sea posible, primero tus características físicas, luego tu personalidad y por último tus gustos y preferencias. Con esa hoja frente a ti, intenta pensar en lo que te gustaría hacer. Investiga las actividades diarias de una persona que se dedique a eso. Contrasta tu investigación con tu persona. ¿Te gustaría hacerlo diario? Pongamos un ejemplo, conmigo.&lt;/p&gt;
+
+&lt;p&gt;Me gustaría ser Ingeniero en Software, investigué y descubrí que normalmente hacen lo siguiente:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Tienen reuniones acerca del producto&lt;/li&gt;
+  &lt;li&gt;Investigan fallas en el código&lt;/li&gt;
+  &lt;li&gt;Reparan y crean nuevas funciones para el producto&lt;/li&gt;
+  &lt;li&gt;Arreglan errores y fallos de seguridad&lt;/li&gt;
+  &lt;li&gt;Organizan ciclos SCRUM basados en los resultados que el sistema de control de versiones arroja.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Son actividades que realmente son interesantes para mí. He visto videos en YouTube de personas haciendo cada una de estas actividades. Me encanta.&lt;/p&gt;
+
+&lt;p&gt;Listo, ahora tengo una idea más clara de que, la programación es una disciplina que estoy dispuesto a emplear mi tiempo para formarme. Perfecto.&lt;/p&gt;
+
+&lt;p&gt;Si tú no logras encajar ninguna actividad contigo, intenta buscar los valores que tienen las distintas profesiones y compáralos contigo, si ves que encajan puede ser un match.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-comienza-la-ruta&quot;&gt;2. Comienza la ruta&lt;/h2&gt;
+
+&lt;p&gt;Aprender tiene etapas. Aquí empieza la primera. Supongamos que quieres aprender diseño de interfaces móviles. Ahora estás en una etapa muy curiosa: No sabes lo que no sabes; lo que quiero decir es que aún no conoces las habilidades que necesitas para dominar esa disciplina.&lt;/p&gt;
+
+&lt;p&gt;Investiga qué es lo que debes saber para ser un diseñador de interfaces, por ejemplo. Ahora, enlista las habilidades que necesitas tener (en orden, las más fáciles primero):&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Dominio del color&lt;/li&gt;
+  &lt;li&gt;Tipografías&lt;/li&gt;
+  &lt;li&gt;Sistemas de diseño&lt;/li&gt;
+  &lt;li&gt;Diseño UI&lt;/li&gt;
+  &lt;li&gt;Diseño UX&lt;/li&gt;
+  &lt;li&gt;Aprender Adobe XD o Sketch&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Si ya sabes qué es lo debes aprender pasas a la siguiente etapa.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-dolor&quot;&gt;3. ¡Dolor!&lt;/h2&gt;
+
+&lt;p&gt;Esta es una parte fundamental. Es momento de empezar a aprender. Si, sé que duele, pero la recompensa es muy grande. Pero ¿Cómo consigo aprender eso? ¿De dónde saco la información? ¿Y si no tengo dinero para caras escuelas?&lt;/p&gt;
+
+&lt;p&gt;Internet es la solución a este problema. Intenta agarrar una habilidad, en nuestro caso será Dominio del Color y la iremos subdividiendo en trozos pequeños. ¿Cómo? Muy fácil, busca cursos en línea o sitios web de universidades e intenta encontrar el temario de estos.&lt;/p&gt;
+
+&lt;p&gt;En nuestro ejemplo, pasamos de una habilidad grande a pequeñas habilidades:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Armonía Cromática&lt;/li&gt;
+  &lt;li&gt;Psicología del Color&lt;/li&gt;
+  &lt;li&gt;Personalidades cromáticas&lt;/li&gt;
+  &lt;li&gt;Diseño de paletas de colores&lt;/li&gt;
+  &lt;li&gt;Afinación de contraste, luminosidad y saturación&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;En una tarde puedes aprender una o dos de las actividades listadas anteriormente. Increíble.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-manos-a-la-obra&quot;&gt;4. Manos a la obra&lt;/h2&gt;
+
+&lt;p&gt;Hora de aprender, hora de gastar ese tiempo tan valioso que tienes, hora de ser alguien mejor. ¿Cómo arranco? Bien, buscarás en YouTube, Wikipedia y Google acerca del tema. En este caso: Armonía Cromática.&lt;/p&gt;
+
+&lt;p&gt;Te encontrarás, comúnmente contenido que explica el tema. Los consultarás con calma y harás un resumen de lo más relevante en un sistema de notas. Yo te recomiendo &lt;a href=&quot;http://notion.so&quot;&gt;Notion&lt;/a&gt; y &lt;a href=&quot;https://evernote.com/intl/es/&quot;&gt;Evernote&lt;/a&gt;, son muy buenas para tomar notas rápidas, además están alojadas en la nube por lo que tendrás tus apuntes dondequiera que vayas.&lt;/p&gt;
+
+&lt;p&gt;Si el tema es más bien práctico, debes practicar, si, aunque parezca que no sepas nada inténtalo. Analiza los problemas que tiene tu práctica e investiga ¿Qué salió mal? Así, podrás aplicar tus conocimientos y refuerzas lo aprendido de manera considerable.&lt;/p&gt;
+
+&lt;p&gt;Si extender perfectamente todas las explicaciones que pudiste encontrar a la perfección ya lo tienes, ya haz dominado la habilidad.&lt;/p&gt;
+
+&lt;p&gt;Cuando pases a la siguiente intenta relacionar lo anterior con lo que estás aprendiendo ahora mismo. Siempre intenta relacionar las habilidades ya aprendidas con las nuevas. Algunas veces parece imposible, si fallas, haz una lista de similitudes y diferencias del tema con el otro, con eso es suficiente.&lt;/p&gt;
+
+&lt;h2 id=&quot;5-agujero&quot;&gt;5. Agujero&lt;/h2&gt;
+
+&lt;p&gt;Si lo haz hecho bien, después de unas semanas, sientes que puedes hacerlo todo. Si estás aprendiendo a dibujar y haces un dibujo excelente la satisfacción es enorme. Pero debes tener cuidado. Estás el agujero que llamo: “Confianza de novato”.&lt;/p&gt;
+
+&lt;p&gt;Tus primeras creaciones parecen perfectas, te sientes súper orgulloso de ti. Si te quedas estancado aquí, nunca podrás ser experto. Lo que debes hacer es buscar los temas más avanzados acerca de la habilidad. Busca hasta que encuentres lo más difícil que puedas imaginar.&lt;/p&gt;
+
+&lt;p&gt;Esa será tu meta desde ahora, tranquilo, puede ser que no sea necesario llegar hasta allá para ser alguien útil. Sin embargo, el propósito de esta actividad es que ahora: &lt;em&gt;Sabes lo que no sabes.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Intenta hacer lo mismo que el punto anterior hasta algo cerca de tu meta. Recuerda, aprender duele, tómatelo con calma. Si aprendes todos los días una hora de cualquier tema, tendrás resultados muy rápido.&lt;/p&gt;
+
+&lt;h2 id=&quot;6-dominio&quot;&gt;6. Dominio&lt;/h2&gt;
+
+&lt;p&gt;Si lograste llegar hasta acá, en el punto en donde tu meta está completada o muy cercana, felicidades, lograste dominar la habilidad con la que tanto soñaste.&lt;/p&gt;
+
+&lt;p&gt;¿Es difícil? Claro, pero si te lo propones puedes aprender cualquier cosa, sin necesidad de asistir a la escuela, todo a tu ritmo y cómo a ti te gusta. Ser autodidacta es lo mejor que le  puedes hacer a tu cerebro.&lt;/p&gt;
+
+&lt;p&gt;Déjame en los comentarios ¿Qué tema quisieras ver la  semana que viene?&lt;/p&gt;</content><author><name>DavidDarnes</name></author><category term="Autodidactas" /><summary type="html">Todos hablan de cómo te puede beneficiar aprender por internet, pero nadie te enseña cómo. Hoy vas a aprender de una vez por todas cómo puedes aprender todo lo que quieras de manera gratuita por internet. Lo que sea, en serio. Esta guía paso a paso fue hecha 100% desde mi experiencia. Siéntete libre de expandirla tanto como estés cómodo. Aquí vamos. 1. Descúbrete Piensa bien quién eres, en serio. En una hoja descríbete tan detalladamente como sea posible, primero tus características físicas, luego tu personalidad y por último tus gustos y preferencias. Con esa hoja frente a ti, intenta pensar en lo que te gustaría hacer. Investiga las actividades diarias de una persona que se dedique a eso. Contrasta tu investigación con tu persona. ¿Te gustaría hacerlo diario? Pongamos un ejemplo, conmigo. Me gustaría ser Ingeniero en Software, investigué y descubrí que normalmente hacen lo siguiente: Tienen reuniones acerca del producto Investigan fallas en el código Reparan y crean nuevas funciones para el producto Arreglan errores y fallos de seguridad Organizan ciclos SCRUM basados en los resultados que el sistema de control de versiones arroja. Son actividades que realmente son interesantes para mí. He visto videos en YouTube de personas haciendo cada una de estas actividades. Me encanta. Listo, ahora tengo una idea más clara de que, la programación es una disciplina que estoy dispuesto a emplear mi tiempo para formarme. Perfecto. Si tú no logras encajar ninguna actividad contigo, intenta buscar los valores que tienen las distintas profesiones y compáralos contigo, si ves que encajan puede ser un match. 2. Comienza la ruta Aprender tiene etapas. Aquí empieza la primera. Supongamos que quieres aprender diseño de interfaces móviles. Ahora estás en una etapa muy curiosa: No sabes lo que no sabes; lo que quiero decir es que aún no conoces las habilidades que necesitas para dominar esa disciplina. Investiga qué es lo que debes saber para ser un diseñador de interfaces, por ejemplo. Ahora, enlista las habilidades que necesitas tener (en orden, las más fáciles primero): Dominio del color Tipografías Sistemas de diseño Diseño UI Diseño UX Aprender Adobe XD o Sketch Si ya sabes qué es lo debes aprender pasas a la siguiente etapa. 3. ¡Dolor! Esta es una parte fundamental. Es momento de empezar a aprender. Si, sé que duele, pero la recompensa es muy grande. Pero ¿Cómo consigo aprender eso? ¿De dónde saco la información? ¿Y si no tengo dinero para caras escuelas? Internet es la solución a este problema. Intenta agarrar una habilidad, en nuestro caso será Dominio del Color y la iremos subdividiendo en trozos pequeños. ¿Cómo? Muy fácil, busca cursos en línea o sitios web de universidades e intenta encontrar el temario de estos. En nuestro ejemplo, pasamos de una habilidad grande a pequeñas habilidades: Armonía Cromática Psicología del Color Personalidades cromáticas Diseño de paletas de colores Afinación de contraste, luminosidad y saturación En una tarde puedes aprender una o dos de las actividades listadas anteriormente. Increíble. 4. Manos a la obra Hora de aprender, hora de gastar ese tiempo tan valioso que tienes, hora de ser alguien mejor. ¿Cómo arranco? Bien, buscarás en YouTube, Wikipedia y Google acerca del tema. En este caso: Armonía Cromática. Te encontrarás, comúnmente contenido que explica el tema. Los consultarás con calma y harás un resumen de lo más relevante en un sistema de notas. Yo te recomiendo Notion y Evernote, son muy buenas para tomar notas rápidas, además están alojadas en la nube por lo que tendrás tus apuntes dondequiera que vayas. Si el tema es más bien práctico, debes practicar, si, aunque parezca que no sepas nada inténtalo. Analiza los problemas que tiene tu práctica e investiga ¿Qué salió mal? Así, podrás aplicar tus conocimientos y refuerzas lo aprendido de manera considerable. Si extender perfectamente todas las explicaciones que pudiste encontrar a la perfección ya lo tienes, ya haz dominado la habilidad. Cuando pases a la siguiente intenta relacionar lo anterior con lo que estás aprendiendo ahora mismo. Siempre intenta relacionar las habilidades ya aprendidas con las nuevas. Algunas veces parece imposible, si fallas, haz una lista de similitudes y diferencias del tema con el otro, con eso es suficiente. 5. Agujero Si lo haz hecho bien, después de unas semanas, sientes que puedes hacerlo todo. Si estás aprendiendo a dibujar y haces un dibujo excelente la satisfacción es enorme. Pero debes tener cuidado. Estás el agujero que llamo: “Confianza de novato”. Tus primeras creaciones parecen perfectas, te sientes súper orgulloso de ti. Si te quedas estancado aquí, nunca podrás ser experto. Lo que debes hacer es buscar los temas más avanzados acerca de la habilidad. Busca hasta que encuentres lo más difícil que puedas imaginar. Esa será tu meta desde ahora, tranquilo, puede ser que no sea necesario llegar hasta allá para ser alguien útil. Sin embargo, el propósito de esta actividad es que ahora: Sabes lo que no sabes. Intenta hacer lo mismo que el punto anterior hasta algo cerca de tu meta. Recuerda, aprender duele, tómatelo con calma. Si aprendes todos los días una hora de cualquier tema, tendrás resultados muy rápido. 6. Dominio Si lograste llegar hasta acá, en el punto en donde tu meta está completada o muy cercana, felicidades, lograste dominar la habilidad con la que tanto soñaste. ¿Es difícil? Claro, pero si te lo propones puedes aprender cualquier cosa, sin necesidad de asistir a la escuela, todo a tu ritmo y cómo a ti te gusta. Ser autodidacta es lo mejor que le puedes hacer a tu cerebro. Déjame en los comentarios ¿Qué tema quisieras ver la semana que viene?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://alembic.darn.es/assets/default-social-image.png" /><media:content medium="image" url="https://alembic.darn.es/assets/default-social-image.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
