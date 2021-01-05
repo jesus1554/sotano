@@ -1,8 +1,8 @@
-const version = '20210105091836';
+const version = '20210105095450';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/aprender","/categorias","/elements","/","/manifest.json","/offline","/assets/search.json","/search","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/logo.jpg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/sotano/aprender","/categorias","/elements","/","/manifest.json","/offline","/assets/search.json","/search","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/logo.jpg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
