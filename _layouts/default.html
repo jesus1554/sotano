@@ -18,6 +18,7 @@
       <meta property="og:title" content="{{ collectiondata.title }}">
       <meta name="description" content="{{ collectiondata.description }}">
       <meta property="og:description" content="{{ collectiondata.description }}">
+      
     {% else %}
       {% seo %}
     {% endif %}
@@ -36,6 +37,7 @@
     {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
 
     {% include site-before-start.html %}
+    
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
