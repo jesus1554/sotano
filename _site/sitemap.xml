@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://alembic.darn.es/blog/aprender</loc>
+<loc>https://jesus1554.github.io/sotano/aprender</loc>
 <lastmod>2021-01-04T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://alembic.darn.es/categories</loc>
+<loc>https://jesus1554.github.io/sotano/categorias</loc>
 </url>
 <url>
-<loc>https://alembic.darn.es/elements</loc>
+<loc>https://jesus1554.github.io/sotano/elements</loc>
 </url>
 <url>
-<loc>https://alembic.darn.es/blog/</loc>
+<loc>https://jesus1554.github.io/sotano/</loc>
 </url>
 <url>
-<loc>https://alembic.darn.es/</loc>
-</url>
-<url>
-<loc>https://alembic.darn.es/search</loc>
+<loc>https://jesus1554.github.io/sotano/search</loc>
 </url>
 </urlset>
