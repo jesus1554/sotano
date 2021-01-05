@@ -1,8 +1,23 @@
-const version = '20210105102713';
+---
+permalink: "/sw.js"
+layout: null
+sitemap: false
+---
+
+const version = '{{ site.time | date: '%Y%m%d%H%M%S' }}';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/sotano/aprender","/categorias","/elements","/","/manifest.json","/offline","/assets/search.json","/search","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/logo.jpg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return [
+    {%- for post in site.posts limit: 10 -%}
+      "{{ site.baseurl }}{{ post.url }}",
+    {%- endfor -%}
+    {%- for page in site.pages -%}
+      {%- unless page.url contains 'sw.js' or page.url contains '404.html' -%}
+        "{{ page.url }}",
+      {%- endunless -%}
+    {%- endfor -%}
+      "{{ site.logo }}", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
