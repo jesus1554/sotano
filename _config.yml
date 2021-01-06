@@ -96,7 +96,7 @@ lang: es-MX # Set the site language
 title: "El Sótano" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.jpg" # Site logo, also used in jekyll-seo-tag
 description: "Un blog de cosas interesantes. Post nuevo todas las semanas. In cats we trust" # Site description and default description, also used in jekyll-seo-tag
-url: "https://jesus1554.github.io" # Site url, also used in jekyll-seo-tag
+url: "https://jesus1554.github.io/sotano" # Site url, also used in jekyll-seo-tag
 baseurl: "/sotano"
 repo: "https://github.com/jesus1554/sotano"
 email: "jesus.flores.esp@gmail.com"
