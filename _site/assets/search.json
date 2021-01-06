@@ -16,10 +16,10 @@
   
   
   {
-    "title": "About",
-    "excerpt": "\n",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com\n\nYou can find the source code for Minima at GitHub:\njekyll /\nminima\n\nYou can find the source code for Jekyll at GitHub:\njekyll /\njekyll\n\n",
-    "url": "/sotano/about/"
+    "title": "Categorías",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/sotano/categories"
   },
   
   {
@@ -27,6 +27,13 @@
     "excerpt": "\n",
     "content": "Hola, soy Jesús y esto es El Sótano. Un pequeño agujero en toda la montaña grandiosa que es internet. Aquí, todas las semanas, hablaré de un tema, el que tú, hermoso lector, decidas (o el que se me pegue la gana).\n\nVamos, tenemos que aceptarlo. Los chavos de hoy tenemos muchas preguntas y dudas acerca de cómo funciona el mundo. Aquí habrá artículos útiles para temas que son de interés pa’ la chaviza.\n",
     "url": "/sotano/"
+  },
+  
+  {
+    "title": "Buscar",
+    "excerpt": "No escontré tu búsqueda :(\n",
+    "content": "{% include site-search.html %}\n",
+    "url": "/sotano/search"
   }
   
 ]

@@ -1,8 +1,8 @@
-const version = '20210106102454';
+const version = '20210106133315';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/sotano/aprender","/sotano/about/","/sotano/","/sotano/manifest.json","/sotano/assets/search.json","/sotano/assets/styles.css","/sotano/redirects.json","/sotano/sitemap.xml","/sotano/robots.txt","/sotano/feed.xml","/sotano/assets/logos/logo.jpg", "/sotano/assets/default-offline-image.png", "/sotano/assets/scripts/fetch.js"
+  return ["/sotano/aprender","/sotano/categories","/sotano/","/sotano/search","/sotano/assets/styles.css","/sotano/manifest.json","/sotano/assets/search.json","/sotano/redirects.json","/sotano/sitemap.xml","/sotano/robots.txt","/sotano/feed.xml","/sotano/assets/styles.css.map","/sotano/assets/logos/logo.jpg", "/sotano/assets/default-offline-image.png", "/sotano/assets/scripts/fetch.js"
   ]
 }
 
