@@ -1,8 +1,8 @@
-const version = '20210105135009';
+const version = '20210106133315';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/sotano/aprender","/categorias","/elements","/","/manifest.json","/offline","/assets/search.json","/search","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/logo.jpg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/sotano/aprender","/sotano/categories","/sotano/","/sotano/search","/sotano/assets/styles.css","/sotano/manifest.json","/sotano/assets/search.json","/sotano/redirects.json","/sotano/sitemap.xml","/sotano/robots.txt","/sotano/feed.xml","/sotano/assets/styles.css.map","/sotano/assets/logos/logo.jpg", "/sotano/assets/default-offline-image.png", "/sotano/assets/scripts/fetch.js"
   ]
 }
 
@@ -60,7 +60,7 @@ self.addEventListener("fetch", event => {
 
   if (request.url.match(/\.(jpe?g|png|gif|svg)$/)) {
     // If url requested is an image and isn't cached, return default offline image
-    offlineAsset = "/assets/default-offline-image.png";
+    offlineAsset = "/sotano/assets/default-offline-image.png";
   }
 
   // For all urls request image from network, then fallback to cache, then fallback to offline page

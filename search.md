@@ -1,7 +1,6 @@
 ---
 title: Buscar
-excerpt: "Search for a page or post you're looking for"
-permalink: /search
+excerpt: "No escontré tu búsqueda :("
 ---
 
 {% include site-search.html %}
