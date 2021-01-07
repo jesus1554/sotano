@@ -1,5 +1,3 @@
 source "https://rubygems.org"
 
-
-
-gem "alembic-jekyll-theme"
+gem "jekyll-theme-basically-basic"
