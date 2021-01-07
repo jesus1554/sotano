@@ -74,6 +74,9 @@ exclude:
 disqus:
   shortname: el-sotano
 
+# Analytics
+google_analytics: G-1M4Q6N2JCD
+
 # Front Matter Defaults
 defaults:
   # _posts
