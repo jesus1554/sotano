@@ -212,6 +212,13 @@
   h6 {
     color: tint($text-color, 25%);
   }
+
+  #mc_embed_signup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
 }
 
 /* Footnotes */

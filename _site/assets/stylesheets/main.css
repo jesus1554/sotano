@@ -626,6 +626,8 @@ tr, td, th { vertical-align: middle; }
 
 .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6 { color: #525559; }
 
+.entry-content #mc_embed_signup { display: flex; justify-content: center; align-items: center; }
+
 /* Footnotes */
 .footnotes { margin: 2rem 0; padding-top: 1rem; border-top: 1px solid #d7d8da; font-size: 80%; }
 
