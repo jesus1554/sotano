@@ -37,7 +37,7 @@
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 /** 1. Change the default font family in all browsers (opinionated). 2. Prevent adjustments of font size after orientation changes in IE on Windows Phone and in iOS. */
 /* Document ========================================================================== */
-html { font-family: "Fira Sans", sans-serif; /* 1 */ box-sizing: border-box; -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
+html { font-family: "Arvo", serif; /* 1 */ box-sizing: border-box; -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
 *, *::before, *::after { box-sizing: inherit; }
 
@@ -124,7 +124,7 @@ svg:not(:root) { overflow: hidden; }
 
 /* Forms ========================================================================== */
 /** 1. Change the font styles in all browsers (opinionated). 2. Remove the margin in Firefox and Safari. */
-button, input, optgroup, select, textarea { margin: 0; /* 2 */ font-family: "Fira Sans", sans-serif; /* 1 */ font-size: 100%; /* 1 */ line-height: 1.15; /* 1 */ }
+button, input, optgroup, select, textarea { margin: 0; /* 2 */ font-family: "Arvo", serif; /* 1 */ font-size: 100%; /* 1 */ line-height: 1.15; /* 1 */ }
 
 /** Show the overflow in IE. 1. Show the overflow in Edge. */
 button, input { /* 1 */ overflow: visible; }
@@ -187,11 +187,11 @@ template { display: none; }
 [hidden] { display: none; }
 
 /* ========================================================================== Base elements ========================================================================== */
-html { font-size: 14px; }
+html { font-size: 16px; }
 
-@media screen and (min-width: 320px) { html { font-size: calc(14px + 4 * ((100vw - 320px) / 960)); } }
+@media screen and (min-width: 320px) { html { font-size: calc(16px + 4 * ((100vw - 320px) / 960)); } }
 
-@media screen and (min-width: 1280px) { html { font-size: 18px; } }
+@media screen and (min-width: 1280px) { html { font-size: 20px; } }
 
 body { background: #fff; color: #181c22; }
 
@@ -205,43 +205,43 @@ code, kbd, samp, pre { font-family: Menlo, Consolas, Monaco, "Courier New", Cour
 
 kbd { display: inline-block; margin: 0 0.125em; padding: 0.125em 0.5em; border: 1px solid #cccccc; border-radius: 3px; background-color: #f7f7f7; text-shadow: 0 1px 0 #fff; box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25), inset 0 0 0 2px #fff; }
 
-h1, h2, h3, h4, h5, h6 { font-family: "Fira Sans", sans-serif; text-rendering: optimizeLegibility; /* enable common ligatures and kerning */ }
+h1, h2, h3, h4, h5, h6 { font-family: "Arvo", serif; text-rendering: optimizeLegibility; /* enable common ligatures and kerning */ }
 
-h1 { font-size: 20.7385152499px; }
+h1 { font-size: 22.0346724531px; }
 
-@media screen and (min-width: 320px) { h1 { font-size: calc(20.7385152499px + 24.3992432694 * ((100vw - 320px) / 960)); } }
+@media screen and (min-width: 320px) { h1 { font-size: calc(22.0346724531px + 25.9241959737 * ((100vw - 320px) / 960)); } }
 
-@media screen and (min-width: 1280px) { h1 { font-size: 45.1377585193px; } }
+@media screen and (min-width: 1280px) { h1 { font-size: 47.9588684268px; } }
 
-h2 { font-size: 19.436284208px; }
+h2 { font-size: 20.651051971px; }
 
-@media screen and (min-width: 320px) { h2 { font-size: calc(19.436284208px + 15.392233168 * ((100vw - 320px) / 960)); } }
+@media screen and (min-width: 320px) { h2 { font-size: calc(20.651051971px + 16.354247741 * ((100vw - 320px) / 960)); } }
 
-@media screen and (min-width: 1280px) { h2 { font-size: 34.828517376px; } }
+@media screen and (min-width: 1280px) { h2 { font-size: 37.005299712px; } }
 
-h3 { font-size: 18.215824px; }
+h3 { font-size: 19.354313px; }
 
-@media screen and (min-width: 320px) { h3 { font-size: calc(18.215824px + 8.658032 * ((100vw - 320px) / 960)); } }
+@media screen and (min-width: 320px) { h3 { font-size: calc(19.354313px + 9.199159 * ((100vw - 320px) / 960)); } }
 
-@media screen and (min-width: 1280px) { h3 { font-size: 26.873856px; } }
+@media screen and (min-width: 1280px) { h3 { font-size: 28.553472px; } }
 
-h4 { font-size: 17.072px; }
+h4 { font-size: 18.139px; }
 
-@media screen and (min-width: 320px) { h4 { font-size: calc(17.072px + 3.664 * ((100vw - 320px) / 960)); } }
+@media screen and (min-width: 320px) { h4 { font-size: calc(18.139px + 3.893 * ((100vw - 320px) / 960)); } }
 
-@media screen and (min-width: 1280px) { h4 { font-size: 20.736px; } }
+@media screen and (min-width: 1280px) { h4 { font-size: 22.032px; } }
 
-h5 { font-size: 16px; }
+h5 { font-size: 17px; }
 
-@media screen and (min-width: 320px) { h5 { font-size: calc(16px + 0 * ((100vw - 320px) / 960)); } }
+@media screen and (min-width: 320px) { h5 { font-size: calc(17px + 0 * ((100vw - 320px) / 960)); } }
 
-@media screen and (min-width: 1280px) { h5 { font-size: 16px; } }
+@media screen and (min-width: 1280px) { h5 { font-size: 17px; } }
 
-h6 { font-size: 14.9953139644px; }
+h6 { font-size: 15.9325210872px; }
 
-@media screen and (min-width: 320px) { h6 { font-size: calc(14.9953139644px + -2.649634952 * ((100vw - 320px) / 960)); } }
+@media screen and (min-width: 320px) { h6 { font-size: calc(15.9325210872px + -2.8152371365 * ((100vw - 320px) / 960)); } }
 
-@media screen and (min-width: 1280px) { h6 { font-size: 12.3456790123px; } }
+@media screen and (min-width: 1280px) { h6 { font-size: 13.1172839506px; } }
 
 dt { font-weight: bold; }
 
@@ -338,7 +338,7 @@ tr, td, th { vertical-align: middle; }
 
 /* Components */
 /* ========================================================================== Site-wide ========================================================================== */
-.site-title { margin: 0; padding: 1.8125rem 1rem; padding-right: calc( 10vw + (2 * 1.75em)); /* make room for sidebar toggle */ font-family: "Fira Sans", sans-serif; font-weight: bold; line-height: 1; }
+.site-title { margin: 0; padding: 1.8125rem 1rem; padding-right: calc( 10vw + (2 * 1.75em)); /* make room for sidebar toggle */ font-family: "Arvo", serif; font-weight: bold; line-height: 1; }
 
 .site-title { font-size: 20px; }
 
@@ -364,7 +364,7 @@ tr, td, th { vertical-align: middle; }
 
 .taxonomy-section + .taxonomy-section { margin-top: 2em; }
 
-.taxonomy-title { margin-bottom: 0.5em; color: #a9b3c3; font-family: "Fira Sans", sans-serif; }
+.taxonomy-title { margin-bottom: 0.5em; color: #a9b3c3; font-family: "Arvo", serif; }
 
 .taxonomy-title { font-size: 28px; }
 
@@ -374,7 +374,7 @@ tr, td, th { vertical-align: middle; }
 
 .taxonomy-count { color: #8c99ad; }
 
-.taxonomy-index { display: grid; grid-column-gap: 2em; grid-template-columns: repeat(2, 1fr); margin: 0; padding: 0; font-family: "Fira Sans", sans-serif; font-size: 0.9em; list-style: none; }
+.taxonomy-index { display: grid; grid-column-gap: 2em; grid-template-columns: repeat(2, 1fr); margin: 0; padding: 0; font-family: "Arvo", serif; font-size: 0.9em; list-style: none; }
 
 @media (min-width: 64em) { .taxonomy-index { grid-template-columns: repeat(3, 1fr); } }
 
