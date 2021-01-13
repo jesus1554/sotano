@@ -31,7 +31,7 @@ Imagina que vas por tu casa y te das cuenta que no hay leche. Lo que puedes hace
 
 Para todo esto puedes hacerlo en una libreta o una app. Yo te recomiendo [Microsoft To-Do](https://todo.microsoft.com/tasks/es-es/), es gratis.
 
-![/sotano/sotano/assets/images/organizate/Untitled.png](/sotano/sotano/assets/images/organizate/Untitled.png)
+![/sotano/assets/images/organizate/Untitled.png](/sotano/assets/images/organizate/Untitled.png)
 
 Crearemos una lista nueva llamada "*Bandeja de Entrada*", en mi caso le puse de nombre *Inbox*. Ahí es en donde descargaremos toda nuestra mente con todas las tareas pendientes.
 
