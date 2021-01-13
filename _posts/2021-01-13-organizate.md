@@ -31,7 +31,7 @@ Imagina que vas por tu casa y te das cuenta que no hay leche. Lo que puedes hace
 
 Para todo esto puedes hacerlo en una libreta o una app. Yo te recomiendo [Microsoft To-Do](https://todo.microsoft.com/tasks/es-es/), es gratis.
 
-![/assets/images/organizate/Untitled.png](/assets/images/organizate/Untitled.png)
+![/sotano/sotano/assets/images/organizate/Untitled.png](/sotano/sotano/assets/images/organizate/Untitled.png)
 
 Crearemos una lista nueva llamada "*Bandeja de Entrada*", en mi caso le puse de nombre *Inbox*. Ahí es en donde descargaremos toda nuestra mente con todas las tareas pendientes.
 
@@ -41,7 +41,7 @@ Al final del día tendremos que clasificar todas las tareas que estén en la Ban
 
 Ahí, se ponen todas las tareas que quieres que estén en tu cabeza en el futuro, cosas que no harás ahora, las harás después. Pondré un ejemplo.
 
-![/assets/images/organizate/Untitled%201.png](/assets/images/organizate/Untitled%201.png)
+![/sotano/assets/images/organizate/Untitled%201.png](/sotano/assets/images/organizate/Untitled%201.png)
 
 En este caso, coloqué tareas que no haré hoy. Son cosas que no quiero tener en la cabeza sólo hasta la fecha estipulada por mí.
 
@@ -51,7 +51,7 @@ Hay tareas que te gustaría hacer, pero, siendo realistas no son tan importantes
 
 En esta lista caerán todas las tareas que son para el futuro, pero, a diferencia de Recordatorios, no hay fecha para hacerlas (porque no hace falta). Aquí está la mía.
 
-![/assets/images/organizate/Untitled%202.png](/assets/images/organizate/Untitled%202.png)
+![/sotano/assets/images/organizate/Untitled%202.png](/sotano/assets/images/organizate/Untitled%202.png)
 
 Aquí coloqué cosas que me gustaría hacer, pero, realmente no pasa nada si no las hago. Son cosas que me gustaría que ocurrieran.
 
@@ -59,7 +59,7 @@ Aquí coloqué cosas que me gustaría hacer, pero, realmente no pasa nada si no 
 
 Hay tareas que debemos hacer cada cierto tiempo, si o si. Para evitar olvidarnos de ellas, podemos colocarlas en esta lista. Todas las tareas que se repitan cada *x* días deben de estar aquí. Pondré mi lista de ejemplo.
 
-![/assets/images/organizate/Untitled%203.png](/assets/images/organizate/Untitled%203.png)
+![/sotano/assets/images/organizate/Untitled%203.png](/sotano/assets/images/organizate/Untitled%203.png)
 
 Ah, que se me olvidaba. Para colocarle fecha a las tareas y que la app te recuerde. Sólo debes hacer click en la tarea, ahí puedes hacer eso.
 
@@ -71,11 +71,11 @@ El mejor ejemplo es el siguiente: ¿Quieres empezar a comer más sano? No puedes
 
 Primero, pondrás: *Comprar verduras*, luego, *Buscar recetas sanas*, después, *Cocinar recetas*. ¿Ves? Tuviste que hacer varias cosas. Eso es un Proyecto.
 
-![/assets/images/organizate/Untitled%204.png](/assets/images/organizate/Untitled%204.png)
+![/sotano/assets/images/organizate/Untitled%204.png](/sotano/assets/images/organizate/Untitled%204.png)
 
 ¿Cómo lo hacemos en Microsoft To Do? Fácil, sólo das click a la tarea y hay una opción para agregar pasos. Así.
 
-![/assets/images/organizate/Untitled%205.png](/assets/images/organizate/Untitled%205.png)
+![/sotano/assets/images/organizate/Untitled%205.png](/sotano/assets/images/organizate/Untitled%205.png)
 
 ¿Viste? Ahí están las tareas de uno mis Proyectos.
 
@@ -85,16 +85,16 @@ Ya que terminaste de vaciar la lista de Bandeja de Entrada y todas tus tareas es
 
 No te satures, puedes agarrar tareas de todas las demás listas y llevarlas a Mi Día, recuerda sólo las que harás. ¿Cómo las agrego? Muy fácil, al dar click en la tarea, hay una opción de "Agregar a Mi Día".
 
-![/assets/images/organizate/Untitled%206.png](/assets/images/organizate/Untitled%206.png)
+![/sotano/assets/images/organizate/Untitled%206.png](/sotano/assets/images/organizate/Untitled%206.png)
 
 Así se ve cuando la agregas, ahora veremos la lista de Mi Día.
 
-![/assets/images/organizate/Untitled%207.png](/assets/images/organizate/Untitled%207.png)
+![/sotano/assets/images/organizate/Untitled%207.png](/sotano/assets/images/organizate/Untitled%207.png)
 
 ## Resumen y Conclusiones
 
 Organizar tu tiempo es de suma importancia y, como ves, no es tan difícil. Eso sí, lo difícil aquí es tener disciplina de hacer todo esto diario. Para cerrar, pondré un diagrama para que te quede más claro.
 
-![/assets/images/organizate/Untitled%208.png](/assets/images/organizate/Untitled%208.png)
+![/sotano/assets/images/organizate/Untitled%208.png](/sotano/assets/images/organizate/Untitled%208.png)
 
 ¿Te ha gustado? Me ayudarías mucho compartiendo este contenido. Déjame en los comentarios de qué otro tema quieres que hable. ¡Adiós!
